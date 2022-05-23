@@ -6,4 +6,4 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
 * React 
 
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolorandi)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolorandi)]
