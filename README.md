@@ -41,7 +41,7 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
 | ------------- | ------------- |
 
 ### Last projects
-|[![Janken](https://github.com/pedrolorandi/pedrolorandi/blob/main/janken.gif?raw=true)](http://pedrolorandi.com)| Janken |
+|[![Janken](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=janken&theme=github_dark)](https://github.com/pedrolorandi/janken)|[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=portfolio&theme=github_dark)](https://github.com/pedrolorandi/portfolio)|
 | ------------- | ------------- |
 
 ### Where to find me
