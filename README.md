@@ -30,6 +30,9 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Adobe_CC-%23F05033.svg?style=for-the-badge&logo=adobecc&logoColor=white" alt="Git" />
+</a>
 
 | [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolorandi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolorandi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
