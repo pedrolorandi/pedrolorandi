@@ -4,3 +4,6 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
 
 ## Skills and Experience
 * React 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
