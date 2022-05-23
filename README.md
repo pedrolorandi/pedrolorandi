@@ -21,6 +21,15 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/-React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </a>
+<a href="https://jquery.com/">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL">
+  <img src="https://img.shields.io/badge/SQL-%230769AD.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
 
 | [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolorandi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolorandi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
