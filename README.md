@@ -10,7 +10,7 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </a>
 <a href="https://sass-lang.com/">
-  <img src="https://img.shields.io/badge/-Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/-Sass-white.svg?style=for-the-badge&logo=sass&logoColor=23CC6699" alt="Sass" />
 </a>
 <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
