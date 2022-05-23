@@ -15,6 +15,12 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
 <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </a>
+<a href="https://www.javascript.com/">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</a>
+<a href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/-React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</a>
 
 | [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolorandi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolorandi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
