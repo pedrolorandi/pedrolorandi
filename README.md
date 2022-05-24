@@ -46,8 +46,8 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
 
 ### Where to find me
 <a href="https://pedrolorandi.com" target="_blank">
-  <img src="https://img.shields.io/badge/portfolio-white.svg?style=for-the-badge&logo=icloud&logoColor=black" alt="HTML5" />
+  <img src="https://img.shields.io/badge/portfolio-white.svg?style=for-the-badge&logo=icloud&logoColor=black" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/pedrolorandi" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
