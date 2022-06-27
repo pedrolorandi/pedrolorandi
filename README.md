@@ -41,7 +41,7 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
 | ------------- | ------------- |
 
 ### Last projects
-|[![To-do React App](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=todolist&theme=github_dark)](https://github.com/pedrolorandi/todolist)|[![Janken](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=janken&theme=github_dark)](https://github.com/pedrolorandi/janken)|
+|[![To-do React App](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=react-todolist&theme=github_dark)](https://github.com/pedrolorandi/todolist)|[![Janken](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=janken&theme=github_dark)](https://github.com/pedrolorandi/janken)|
 | ------------- | ------------- |
 
 ### Where to find me
