@@ -25,7 +25,7 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/SQL-grey.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
