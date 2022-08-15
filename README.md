@@ -41,7 +41,7 @@ I'm a former freelance Web Developer with 2 years of experience that switched ca
 | ------------- | ------------- |
 
 ### Last projects
-|[![Pinterest Clone](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=react-todolist&theme=github_dark)](https://github.com/pedrolorandi/pinterest-clone)|[![To-do React App](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=react-todolist&theme=github_dark)](https://github.com/pedrolorandi/react-todolist)|
+|[![Pinterest Clone](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=pinterest-clone&theme=github_dark)](https://github.com/pedrolorandi/pinterest-clone)|[![To-do React App](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=react-todolist&theme=github_dark)](https://github.com/pedrolorandi/react-todolist)|
 | ------------- | ------------- |
 
 ### Where to find me
