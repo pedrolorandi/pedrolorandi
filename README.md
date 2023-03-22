@@ -1,11 +1,5 @@
 # Hello! 👋 I'm Pedro!
 
-As a software developer with over 2 years of experience and a focus on front-end development, I have a diverse background that includes a career switch, a degree in engineering, corporate work experience, and a move to a new country.
-
-Currently enrolled in Lighthouse Labs Web Development, I am returning to software development with a strong skillset in technologies such as HTML5, CSS3, JavaScript, React, jQuery, SASS, Bootstrap, Node.JS, Express, Firebase, SQL, and Git. 
-
-Able to display leadership qualities, I can bring a unique perspective and a range of skills to any project.
-
 ### Skills
 <a href="#">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
