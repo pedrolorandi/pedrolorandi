@@ -3,15 +3,11 @@
 Full-Stack Web Developer with experience with data analysis and quality control seeking a software development role to write code that efficiently handles data at scale. Collaborative team player with a proven track record of providing actionable insights and maintaining data integrity. Excited to develop innovative solutions and contribute to new projects, with a particular interest in writing tools that help people.
 
 ### Skills
+**Languages:** JavaScript, Ruby, HTML, CSS<br />
+**Frameworks, Libraries, and Environments:** React, Node, Express, EJS, Rails, Ajax, jQuery, SASS, Bootstrap<br />
+**Systems and Databases:** SQL, PostgreSQL, Firebase<br />
+**Testing:** Storybook, Cypress, Jest, Mocha, Chai<br />
 
-| ------------- | ------------- |
-**LANGUAGES:** JavaScript, Ruby, HTML, CSS <br />
-**FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS:** React, Node, Express, EJS, Rails, Ajax, jQuery, SASS, Bootstrap <br />
-**SYSTEMS AND DATABASES:** SQL, PostgreSQL, Firebase|
-**TESTING:** Storybook, Cypress, Jest, Mocha, Chai <br />
-**SPOKEN LANGUAGES:** English, French, Portuguese
-
-<br />
 <br />
 
 | [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolorandi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolorandi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |
