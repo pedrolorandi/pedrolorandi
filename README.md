@@ -1,5 +1,7 @@
 # Hello! 👋 I'm Pedro!
 
+Full-Stack Web Developer with experience with data analysis and quality control seeking a software development role to write code that efficiently handles data at scale. Collaborative team player with a proven track record of providing actionable insights and maintaining data integrity. Excited to develop innovative solutions and contribute to new projects, with a particular interest in writing tools that help people.
+
 ### Skills
 <a href="#">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
