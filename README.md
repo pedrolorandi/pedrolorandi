@@ -3,10 +3,12 @@
 Full-Stack Web Developer with experience with data analysis and quality control seeking a software development role to write code that efficiently handles data at scale. Collaborative team player with a proven track record of providing actionable insights and maintaining data integrity. Excited to develop innovative solutions and contribute to new projects, with a particular interest in writing tools that help people.
 
 ### Skills
-**LANGUAGES:** JavaScript, Ruby, HTML, CSS
-**FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS:** React, Node, Express, EJS, Rails, Ajax, jQuery, SASS, Bootstrap
-**SYSTEMS AND DATABASES:** SQL, PostgreSQL, Firebase
-**TESTING:** Storybook, Cypress, Jest, Mocha, Chai
+
+| ------------- | ------------- |
+**LANGUAGES:** JavaScript, Ruby, HTML, CSS <br />
+**FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS:** React, Node, Express, EJS, Rails, Ajax, jQuery, SASS, Bootstrap <br />
+**SYSTEMS AND DATABASES:** SQL, PostgreSQL, Firebase|
+**TESTING:** Storybook, Cypress, Jest, Mocha, Chai <br />
 **SPOKEN LANGUAGES:** English, French, Portuguese
 
 <br />
