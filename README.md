@@ -3,36 +3,11 @@
 Full-Stack Web Developer with experience with data analysis and quality control seeking a software development role to write code that efficiently handles data at scale. Collaborative team player with a proven track record of providing actionable insights and maintaining data integrity. Excited to develop innovative solutions and contribute to new projects, with a particular interest in writing tools that help people.
 
 ### Skills
-<a href="#">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/-Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/-React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Adobe_CC-DA1F26.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Adobe Creative Cloud" />
-</a>
+**LANGUAGES:** JavaScript, Ruby, HTML, CSS
+**FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS:** React, Node, Express, EJS, Rails, Ajax, jQuery, SASS, Bootstrap
+**SYSTEMS AND DATABASES:** SQL, PostgreSQL, Firebase
+**TESTING:** Storybook, Cypress, Jest, Mocha, Chai
+**SPOKEN LANGUAGES:** English, French, Portuguese
 
 <br />
 <br />
