@@ -4,7 +4,7 @@ Full-Stack Web Developer with experience with data analysis and quality control 
 
 ### Skills
 **Languages:** JavaScript, Ruby, HTML, CSS<br />
-**Frameworks, Libraries, and Environments:** React, Next, Node, Express, EJS, Rails, Ajax, jQuery, SASS, Bootstrap<br />
+**Frameworks, Libraries, and Environments:** React, Next, Node, Express, EJS, Rails, Ajax, jQuery, SASS, Bootstrap, Tailwind<br />
 **Systems and Databases:** SQL, PostgreSQL, Firebase, Prisma<br />
 **Testing:** Storybook, Cypress, Jest, Mocha, Chai<br />
 
