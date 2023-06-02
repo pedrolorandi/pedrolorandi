@@ -14,7 +14,7 @@ Full-Stack Web Developer with experience with data analysis and quality control 
 | ------------- | ------------- |
 
 ### Last projects
-|[![Pinterest Clone](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=pinterest-clone&theme=github_dark)](https://github.com/pedrolorandi/pinterest-clone)|[![To-do React App](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=react-todolist&theme=github_dark)](https://github.com/pedrolorandi/react-todolist)|
+|[![BudgetBoss](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=budget-boss&theme=github_dark)]([https://github.com/pedrolorandi/pinterest-clone](https://github.com/pedrolorandi/budget-boss))|[![Card Heroes](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=card-heroes&theme=github_dark)]([https://github.com/pedrolorandi/react-todolist](https://github.com/pedrolorandi/card-heroes))|
 | ------------- | ------------- |
 
 ### Where to find me
