@@ -13,6 +13,9 @@ Full-Stack Web Developer with experience with data analysis and quality control 
 | [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolorandi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolorandi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
+### Last projects
+|[![BudgetBoss](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=budget-boss&theme=github_dark)]([https://github.com/pedrolorandi/pinterest-clone](https://github.com/pedrolorandi/budget-boss))|[![Card Heroes](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=card-heroes&theme=github_dark)]([https://github.com/pedrolorandi/react-todolist](https://github.com/pedrolorandi/card-heroes))|
+| ------------- | ------------- |
 
 ### Where to find me
 <a href="https://pedrolorandi.com" target="_blank">
