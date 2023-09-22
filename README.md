@@ -14,7 +14,7 @@ Full-Stack Web Developer with experience with data analysis and quality control 
 | ------------- | ------------- |
 
 ### Last projects
-|[![BudgetBoss](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=budget-boss&theme=github_dark)](https://github.com/pedrolorandi/budget-boss)|[![Card Heroes](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=card-heroes&theme=github_dark)](https://github.com/pedrolorandi/card-heroes)|
+|[![AutoTube](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=autotube&theme=github_dark)](https://github.com/pedrolorandi/autotube)|[![BudgetBoss](https://github-readme-stats.vercel.app/api/pin/?username=pedrolorandi&repo=budget-boss&theme=github_dark)](https://github.com/pedrolorandi/budget-boss)|
 | ------------- | ------------- |
 
 ### Where to find me
